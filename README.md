@@ -27,9 +27,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - VueJs
 - Typescript
 
-## 💻 Projeto
+## 💻 Link do Projeto
 
 This is a project created during the course of the Alura.
+
+https://alura-tracker-red.vercel.app/
 
 # vuejs_cli
 
