@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Comment_box" src=".github/Comment_box.gif" width="70%">
+  <img alt="Alura_tracker" src=".github/2022-10-21-09-28-10.gif" width="70%">
 </p>
 
 ## 🚀 Tecnologias
